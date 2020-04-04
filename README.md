@@ -28,7 +28,7 @@ npm i -g json-server
 Install Pug
 
 ```bash
-npm i -g pug-cli
+npm i -g pug-cli jstransformer-stylus jstransformer-babel babel-preset-env jstransformer-uglify-js jstransformer-uglify-css
 ```
 
 Jalankan script
