@@ -22,3 +22,17 @@ npm i -g json-server
 ```bash
 ./jalankan
 ```
+
+## Mengedit markup
+
+Install Pug
+
+```bash
+npm i -g pug-cli
+```
+
+Jalankan script
+
+```bash
+./olah
+```
