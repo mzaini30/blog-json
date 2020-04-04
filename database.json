@@ -1,0 +1,10 @@
+{
+	"posts": [
+		{
+			"id": 0,
+			"judul": "Hello world",
+			"isi": "Halooo",
+			"tanggal": "4/4/2020"
+		}
+	]
+}
